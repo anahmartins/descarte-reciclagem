@@ -140,6 +140,14 @@ section button:hover {
 .descricao-meta {
     color: #000000; /* Cor do texto */
     margin: 0.5rem 0; /* Margem acima e abaixo */
+    font-size: 16px;
+    line-height: 1.6;
+    color: #34495e;
+    text-align: justify; /* Justificado */
+    letter-spacing: 0.5px;
+    margin: 5px 0;
+    line-height: 1.6;
+    margin-bottom: 15px;
 }
 
 /* Estiliza o rodapé da página */
