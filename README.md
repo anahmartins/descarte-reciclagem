@@ -13,7 +13,7 @@ Bem-vindo ao **Coleta Seletiva: Pontos de coleta**! 🌱 Este projeto é uma apl
 - **Pesquisa de pontos de coleta seletiva**: Encontre locais para descarte de resíduos recicláveis em várias cidades do estado de São Paulo.
 - **Informações detalhadas**: Acesse detalhes importantes sobre cada ponto de coleta, como **endereço** e **descrição**.
 
-## 🚀 Próximos Passos
+## 🚀 Próximos Passos:
 
 Estamos apenas começando! Aqui estão algumas funcionalidades incríveis que planejo adicionar:
 
